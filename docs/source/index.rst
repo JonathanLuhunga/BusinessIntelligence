@@ -1,4 +1,4 @@
-Business Intelligence Repport's documentation!
+Business Intelligence Repports
 =============================================
 
 In editing
