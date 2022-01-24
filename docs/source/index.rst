@@ -1,4 +1,4 @@
-Business Intelligence Repports
+Business Intelligence Reports
 =============================================
 
 In editing
