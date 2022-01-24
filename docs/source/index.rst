@@ -1,4 +1,4 @@
 Business Intelligence Reports
 =============================================
 
-In editing
+.. abstract:: Business Intelligence Reports is a branch of the Business Intellegence
