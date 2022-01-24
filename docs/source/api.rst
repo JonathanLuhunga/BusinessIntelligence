@@ -1,4 +1,4 @@
-API
+Reports
 ===
 
 .. autosummary::
