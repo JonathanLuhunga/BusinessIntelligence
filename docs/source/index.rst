@@ -1,3 +1,4 @@
 Business Intelligence Reports
 =============================================
-.. abstract:: Business Intelligence Reports is a branch of the Business Intellegence
+.. warning:: Here be dragons! This topic covers a number of options that
+   might alter your database.
