@@ -1,7 +1,10 @@
 Business Intelligence Reports
 =============================================
-.. toctree::
-    :maxdepth: 2
 
-    intro
-    require
+.. toctree::
+   :maxdepth: 1
+
+   api.rst
+   usage.rst
+
+
