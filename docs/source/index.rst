@@ -4,4 +4,3 @@ Sphinx offers some great features for technical writing. Some of them are provid
 require the installation of extensions.
 
 
-
