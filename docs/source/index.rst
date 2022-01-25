@@ -1,7 +1,11 @@
 Business Intelligence Reports
 =============================================
-.. toctree::
-   :maxdepth: 2
+.. warning:: Here be dragons! This topic covers a number of options that
+   might alter your database.
 
-   install
-   support
+   Proceed with caution!
+
+.. figure:: screenshot-control-panel.jpg
+   :width: 50%
+
+   An overview of the admin control panel.
