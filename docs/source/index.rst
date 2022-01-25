@@ -7,7 +7,6 @@ Business Intelligence Reports
    
 You can learn more about this in :rfc:`1984`.
 It is implemented in our code at :class:`System.Security`
-
 .. toctree::
    :maxdepth: 2
 
