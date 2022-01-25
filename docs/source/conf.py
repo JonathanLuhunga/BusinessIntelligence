@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'BIMumiDocs'
+copyright = '2021, Jonathan Luhunga'
+author = 'Jonathan Luhunga'
 
 release = '0.1'
 version = '0.1.0'
