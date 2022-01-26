@@ -19,15 +19,15 @@ we'll have the following pages:
 Let's go over the concepts we'll cover,
 and then we can talk more about the pages to create.
 
-Concepts
-********
+Serveur Centre de rapports
+**************************
 
 A lot of these RST syntax examples are covered in the Sphinx :ref:`sphinx:rst-primer`.
 
 .. index::
    pair: Syntax; Hyperlink
 
-Sections
+But
 --------
 
 .. code-block:: rst
@@ -139,8 +139,8 @@ creating a "tree" structure of the pages::
           It is quite important,
           and one of the most powerful concepts in Sphinx.
 
-Tasks
-*****
+Rapports
+********
 
 Create Installation page
 ------------------------
@@ -212,14 +212,14 @@ go ahead and build your docs again::
 If you open up your ``index.html``,
 you should see the basic structure of your docs from the included ``toctree`` directive.
 
-Extra Credit
+Analyses
 ************
 
 Have some extra time left?
 Check out these other cool things you can do with Sphinx.
 
-Make a manpage
----------------
+Analyse descriptive
+-------------------
 
 The beauty of Sphinx is that it can output in multiple formats,
 not just HTML.
@@ -234,8 +234,8 @@ You can then view it with::
 
   man _build/man/crawler.1
 
-Create a single page document
------------------------------
+Analyse prescriptive
+--------------------
 
 Some people prefer one large HTML document,
 instead of having to look through multiple pages.
@@ -253,8 +253,8 @@ Check it out by opening it in your browser::
 .. note:: You'll notice that it included the documents in the order
           that your :ref:`TOC Tree <toctree-syntax>` was defined.
 
-Play with RST
--------------
+Analyse prescritive
+-------------------
 
 RST takes a bit of practice to wrap your head around.
 Go over to http://rst.ninjs.org,
@@ -282,8 +282,8 @@ The :ref:`rst-primer` in the Sphinx docs is a great place to start.
 
     You can now view the application by going to http://localhost:5000.
 
-Moving on
----------
+Prise de decisions
+------------------
 
 Now it is time to move on to :doc:`step-2`.
 
