@@ -14,7 +14,7 @@ and deploying that code to Read the Docs.
    usage
    api
    
-   .. toctree::
+.. toctree::
    :caption: 
    :glob:
    
