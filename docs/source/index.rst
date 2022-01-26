@@ -15,7 +15,7 @@ and deploying that code to Read the Docs.
    api
    
 .. toctree::
-   :caption: 
+   :caption: Overview
    :glob:
    
    docs/source/reports/asset
