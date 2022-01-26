@@ -11,5 +11,6 @@ and deploying that code to Read the Docs.
    :maxdepth: 2
    :caption: Docs
 
-   api
    usage
+   api
+   
