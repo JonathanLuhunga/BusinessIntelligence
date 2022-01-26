@@ -28,7 +28,7 @@ A lot of these RST syntax examples are covered in the Sphinx :ref:`sphinx:rst-pr
    pair: Syntax; Hyperlink
 
 But
---------
+-----
 
 Every Sphinx document has multiple level of headings.
 Section headers are created by underlining 
@@ -38,7 +38,7 @@ as long as the text.
 They give structure to the document,
 which is used in navigation and in the display in all output formats.
 
-Rapports
+Reporting
 ********
 
 Installation documentation is really important.
@@ -46,6 +46,9 @@ Anyone who is coming to the project will need to install it.
 For our example,
 we are installing a basic Python script,
 so it will be pretty easy.
+
+But
+-----
 
 Include the following in your ``install.rst``, 
 on the same level as ``index.rst``, properly marked up:
