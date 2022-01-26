@@ -1,11 +1,11 @@
-Reports Folders
+Folders
 ===============
 Our Crawler will make your life as a web developer easier.
 You can learn more about it in our documentation.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
-   asset
+   /docs/source/reports/asset
 
 
