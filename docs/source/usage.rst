@@ -24,9 +24,6 @@ Serveur Centre de rapports
 
 A lot of these RST syntax examples are covered in the Sphinx :ref:`sphinx:rst-primer`.
 
-.. index::
-   pair: Syntax; Hyperlink
-
 But
 --------
 
@@ -47,11 +44,8 @@ For our example,
 we are installing a basic Python script,
 so it will be pretty easy.
 
-Include the following in your ``install.rst``, 
-on the same level as ``index.rst``, properly marked up:
-
 Analyses
-************
+********
 
 Have some extra time left?
 Check out these other cool things you can do with Sphinx.
@@ -63,14 +57,6 @@ The beauty of Sphinx is that it can output in multiple formats,
 not just HTML.
 All of those formats share the same base format though,
 so you only have to change things in one place.
-So you can generate a manpage for your docs::
-
-  make man
-
-This will place a manpage in ``_build/man``.
-You can then view it with::
-
-  man _build/man/crawler.1
 
 Analyse prescriptive
 --------------------
