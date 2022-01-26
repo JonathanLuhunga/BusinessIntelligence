@@ -1,5 +1,5 @@
-Step 1: Business Intelligence Reports
-======================================
+Business Intelligence Reports
+=============================
 
 Now that we have our basic skeleton,
 let's document the project.
