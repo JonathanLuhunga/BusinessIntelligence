@@ -14,3 +14,9 @@ and deploying that code to Read the Docs.
    usage
    api
    
+   .. toctree::
+   :caption: 
+   :glob:
+
+   docs/source/reports/asset
+   
