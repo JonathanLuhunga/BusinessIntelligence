@@ -25,7 +25,7 @@ Serveur Centre de rapports
 A lot of these RST syntax examples are covered in the Sphinx :ref:`sphinx:rst-primer`.
 
 But
---------
+----
 
 Every Sphinx document has multiple level of headings.
 Section headers are created by underlining 
@@ -65,21 +65,14 @@ Some people prefer one large HTML document,
 instead of having to look through multiple pages.
 This is another area where Sphinx shines.
 You can write your documentation in multiple files to make editing and updating easier.
-Then if you want to distribute a single page HTML version::
-
-  make singlehtml
-
-This will combine all of your HTML pages into a single page.
-Check it out by opening it in your browser::
-
-    open _build/singlehtml/index.html
-
-.. note:: You'll notice that it included the documents in the order
-          that your :ref:`TOC Tree <toctree-syntax>` was defined.
+Then if you want to distribute a single page HTML version
 
 Prise de decisions
 ------------------
-
-Now it is time to move on to :doc:`step-2`.
+Installation documentation is really important.
+Anyone who is coming to the project will need to install it.
+For our example,
+we are installing a basic Python script,
+so it will be pretty easy.
 
 
