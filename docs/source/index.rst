@@ -12,10 +12,10 @@ and deploying that code to Read the Docs.
    :caption: Docs
 
    usage
-
+   
 .. toctree::
    :caption: Reports Folders
    :glob:
 
-   docs/source/api
+   api
    
