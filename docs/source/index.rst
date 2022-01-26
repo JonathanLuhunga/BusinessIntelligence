@@ -14,7 +14,7 @@ and deploying that code to Read the Docs.
    usage
    
 .. toctree::
-   :caption: Reports Folders
+   :caption: Reports
    :glob:
 
    api
