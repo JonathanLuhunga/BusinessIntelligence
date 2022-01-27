@@ -7,6 +7,7 @@ You can learn more about it in our documentation
    :maxdepth: 2
 
    asset
+   healthsafty
    
 
 
