@@ -11,6 +11,7 @@ You can learn more about it in our documentation
    supplychain
    orb
    sypro
+   appcatalogue
 
 
 
