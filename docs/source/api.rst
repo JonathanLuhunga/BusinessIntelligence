@@ -10,6 +10,7 @@ You can learn more about it in our documentation
    healthsafty
    supplychain
    orb
+   sypro
 
 
 
