@@ -12,6 +12,7 @@ You can learn more about it in our documentation
    orb
    sypro
    appcatalogue
+   camprequest
 
 
 
