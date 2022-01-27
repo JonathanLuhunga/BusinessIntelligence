@@ -7,8 +7,8 @@ channel on Freenode_.
 We hang out there and you can get real-time help with your projects.
 The other good way is to open an issue on Github_.
 
-The mailing list at https://groups.google.com/forum/#!forum/crawler 
+The report at http://cdmumsrv7pwbip1/Reports/powerbi/Apps%20Catalogue/ReportCatalogueAps
 is also available for support.
 
 .. _Freenode: irc://freenode.net
-.. _Github: http://github.com/example/crawler/issues
+.. _Reports: http://cdmumsrv7pwbip1/Reports/powerbi/Apps%20Catalogue/ReportCatalogueAps
