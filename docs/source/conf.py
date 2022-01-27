@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'BIMumiDocs'
-copyright = '2021, Jonathan Luhunga'
-author = 'Jonathan Luhunga'
+copyright = '2021, Mumi'
+author = 'Mutanda Mining'
 
 release = '0.1'
 version = '0.1.0'
