@@ -2,7 +2,7 @@ Business Intelligence Reports
 =============================
 
 
-.. BI:: Now that we have our basic skeleton,
+.. note:: Now that we have our basic skeleton,
           let's document the project.
           As you might have guessed from the name,
           we'll be documenting a basic web crawler.
