@@ -6,6 +6,8 @@ You can learn more about it in our documentation.
 .. toctree::
    :maxdepth: 2
 
-   /docs/source/reports/asset
+   asset
+   
+
 
 
