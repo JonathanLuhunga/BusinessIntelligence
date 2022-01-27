@@ -1,6 +1,6 @@
-=======
-Asset
-=======
+===============
+AssetManagement
+===============
 
 The easiest way to get help with the project is to join the ``#crawler``
 channel on Freenode_. 
